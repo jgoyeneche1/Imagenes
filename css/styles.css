@@ -256,74 +256,6 @@
             left: 850px;
         }
         
-        .silex-id-1510677473308-2 {
-            min-width: 20px;
-        }
-        
-        .silex-id-1510677473308-1 {
-            width: 20px;
-            background-color: rgba(245, 245, 245, 1);
-            min-height: 400px;
-        }
-        
-        .silex-id-1510680060200-9 {
-            width: 300px;
-            background-color: rgba(245, 245, 245, 1);
-            min-height: 400px;
-            top: 0px;
-            left: 200px;
-        }
-        
-        .silex-id-1510680328225-11 {
-            width: 280px;
-            min-height: 310px;
-            top: 80px;
-            left: 10px;
-        }
-        
-        .silex-id-1510683272091-18 {
-            width: 64px;
-            min-height: 64px;
-            top: 5px;
-            left: 118px;
-        }
-        
-        .silex-id-1510680916075-12 {
-            width: 600px;
-            min-height: 400px;
-            top: 0px;
-            left: 500px;
-        }
-        
-        .silex-id-1510680979821-13 {
-            width: 600px;
-            min-height: 280px;
-            top: 0px;
-            left: 500px;
-        }
-        
-        .silex-id-1510681615601-14 {
-            width: 300px;
-            background-color: rgba(245, 245, 245, 1);
-            min-height: 400px;
-            top: 0px;
-            left: 1100px;
-        }
-        
-        .silex-id-1510681615602-16 {
-            width: 280px;
-            min-height: 310px;
-            top: 80px;
-            left: 10px;
-        }
-        
-        .silex-id-1510683201717-17 {
-            width: 64px;
-            min-height: 64px;
-            top: 5px;
-            left: 118px;
-        }
-        
         .silex-id-1474394621033-3 {
             top: 175px;
             left: 5px;
@@ -764,6 +696,57 @@
             top: 10px;
             left: 600px;
             min-height: -21px;
+        }
+        
+        .silex-id-1510778391235-1 {
+            min-width: 1600px;
+        }
+        
+        .silex-id-1510778391233-0 {
+            width: 1600px;
+            min-height: 400px;
+        }
+        
+        .silex-id-1510680916075-12 {
+            width: 600px;
+            min-height: 400px;
+            top: 0px;
+            left: 400px;
+        }
+        
+        .silex-id-1510680979821-13 {
+            width: 600px;
+            min-height: 280px;
+            top: 5px;
+            left: 400px;
+        }
+        
+        .silex-id-1510680328225-11 {
+            width: 280px;
+            min-height: 310px;
+            top: 85px;
+            left: 115px;
+        }
+        
+        .silex-id-1510683272091-18 {
+            width: 64px;
+            min-height: 64px;
+            top: 10px;
+            left: 223px;
+        }
+        
+        .silex-id-1510681615602-16 {
+            width: 280px;
+            min-height: 310px;
+            top: 85px;
+            left: 1005px;
+        }
+        
+        .silex-id-1510683201717-17 {
+            width: 64px;
+            min-height: 64px;
+            top: 10px;
+            left: 1113px;
         }
         
         .silex-id-1510684369310-0 {
