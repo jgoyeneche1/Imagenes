@@ -158,27 +158,18 @@
             min-height: 560px;
         }
         
-        .silex-id-1510692334436-42 {
+        .silex-id-1510874795372-7 {
             width: 1200px;
             min-height: 560px;
             top: 0px;
             left: 0px;
-            background-color: rgba(43, 88, 127, 1);
-        }
-        
-        .silex-id-1510692402624-43 {
-            width: 356px;
-            background-color: rgba(43, 88, 127, 1);
-            min-height: 560px;
-            top: 0px;
-            left: 100px;
         }
         
         .silex-id-1510692578289-44 {
-            width: 350px;
-            min-height: 550px;
-            top: 5px;
-            left: 3px;
+            width: 577px;
+            min-height: 222px;
+            top: 330px;
+            left: 13px;
         }
         
         .silex-id-1510692173087-37 {
@@ -215,23 +206,9 @@
             left: 150px;
         }
         
-        .silex-id-1510354425053-10 {
-            width: 64px;
-            min-height: 64px;
-            top: 20px;
-            left: 150px;
-        }
-        
         .silex-id-1510354446582-11 {
             width: 400px;
             min-height: 350px;
-            top: 20px;
-            left: 650px;
-        }
-        
-        .silex-id-1510354797707-13 {
-            width: 64px;
-            min-height: 64px;
             top: 20px;
             left: 650px;
         }
@@ -250,18 +227,32 @@
             left: 650px;
         }
         
-        .silex-id-1510423614900-6 {
+        .silex-id-1510853699296-0 {
             width: 64px;
-            min-height: 64px;
-            top: 400px;
-            left: 150px;
+            min-height: 55px;
+            top: 405px;
+            left: 655px;
         }
         
-        .silex-id-1510423697059-7 {
+        .silex-id-1510861621035-1 {
             width: 64px;
-            min-height: 64px;
-            top: 400px;
-            left: 650px;
+            min-height: 55px;
+            top: 25px;
+            left: 155px;
+        }
+        
+        .silex-id-1510869419748-3 {
+            width: 64px;
+            min-height: 55px;
+            top: 405px;
+            left: 155px;
+        }
+        
+        .silex-id-1510869479328-4 {
+            width: 64px;
+            min-height: 55px;
+            top: 25px;
+            left: 655px;
         }
         
         .silex-id-1474394621033-3 {
@@ -699,59 +690,8 @@
             min-height: -21px;
         }
         
-        .silex-id-1510778391235-1 {
-            min-width: 1600px;
-        }
-        
-        .silex-id-1510778391233-0 {
-            width: 1600px;
-            min-height: 400px;
-        }
-        
-        .silex-id-1510680916075-12 {
-            width: 600px;
-            min-height: 400px;
-            top: 0px;
-            left: 300px;
-        }
-        
-        .silex-id-1510680979821-13 {
-            width: 600px;
-            min-height: 280px;
-            top: 5px;
-            left: 300px;
-        }
-        
-        .silex-id-1510680328225-11 {
-            width: 280px;
-            min-height: 310px;
-            top: 85px;
-            left: 15px;
-        }
-        
-        .silex-id-1510683272091-18 {
-            width: 64px;
-            min-height: 64px;
-            top: 10px;
-            left: 123px;
-        }
-        
-        .silex-id-1510681615602-16 {
-            width: 280px;
-            min-height: 310px;
-            top: 85px;
-            left: 905px;
-        }
-        
-        .silex-id-1510683201717-17 {
-            width: 64px;
-            min-height: 64px;
-            top: 10px;
-            left: 1013px;
-        }
-        
         .silex-id-1510684369310-0 {
-            background-color: rgba(184, 184, 184, 1);
+            background-color: rgba(233, 233, 233, 1);
             min-height: 150px;
         }
         
@@ -768,7 +708,61 @@
             min-height: 150px;
             top: 0px;
             left: 0px;
-            background-color: rgba(184, 184, 184, 1);
+            background-color: rgba(233, 233, 233, 1);
+        }
+        
+        .silex-id-1510875042802-8 {
+            min-height: 400px;
+        }
+        
+        .silex-id-1510875089728-10 {
+            width: 1200px;
+            background-color: rgb(255, 255, 255);
+            min-height: 400px;
+            top: 0px;
+            left: 0px;
+        }
+        
+        .silex-id-1510680328225-11 {
+            width: 280px;
+            min-height: 310px;
+            top: 85px;
+            left: 15px;
+        }
+        
+        .silex-id-1510680916075-12 {
+            width: 600px;
+            min-height: 400px;
+            top: 0px;
+            left: 300px;
+        }
+        
+        .silex-id-1510680979821-13 {
+            width: 600px;
+            min-height: 280px;
+            top: 5px;
+            left: 300px;
+        }
+        
+        .silex-id-1510681615602-16 {
+            width: 280px;
+            min-height: 310px;
+            top: 85px;
+            left: 905px;
+        }
+        
+        .silex-id-1510875816658-11 {
+            width: 64px;
+            min-height: 55px;
+            top: 20px;
+            left: 123px;
+        }
+        
+        .silex-id-1510875880603-12 {
+            width: 64px;
+            min-height: 55px;
+            top: 20px;
+            left: 1013px;
         }
         
         .silex-id-1510425478092-9 {
@@ -776,14 +770,14 @@
         }
         
         .silex-id-1510425478092-8 {
-            background-color: rgba(57, 130, 163, 1);
-            min-height: 150px;
+            background-color: rgba(8, 37, 80, 1);
+            min-height: 100px;
         }
         
         .silex-id-1510425595635-10 {
             width: 900px;
-            min-height: 100px;
-            top: 9px;
+            min-height: 80px;
+            top: 5px;
             left: 150px;
         }
     
